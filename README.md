@@ -11,14 +11,10 @@
 
    > > > > ...**" The river reaches its objectives, because it has learned to circumvent obstacles "**  _Lao Tsé....
    
-   [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white] (link://www.linkedin.com/in/jorgealves2021)
-   
-   [![Linkedin Badge](https://www.linkedin.com/in/jorgealves2021)
-   
-   ![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/jorgealves2021/)
-   
-   
-   https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+   <a href="https://www.linkedin.com/in/jorgealves2021">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
    
    Saiba mais, clique aqui: <a href="https://jorgealves.github.io/">jorgealves</a>
 <!--
