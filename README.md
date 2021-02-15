@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/5511982847131?text=Olá!%20Tudo%20bem?">
-   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> />
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white target="_blank"/>
    
    Saiba mais, clique aqui: <a href="https://jorgealves.github.io/">jorgealves</a>
 <!--
