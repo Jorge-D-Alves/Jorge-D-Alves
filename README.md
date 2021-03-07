@@ -13,6 +13,8 @@
 
    > > > > ...**" The river reaches its objectives, because it has learned to circumvent obstacles "**  _Lao Tsé....
    
+
+
    <a target="_blank" href="https://www.linkedin.com/in/jorgealves2021">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -21,3 +23,5 @@
   </a>
   
    
+
+Saiba mais, clique aqui: <a href="https://jorge-d-alves.github.io/">PORTIFOLIO PESSOAL</a>
