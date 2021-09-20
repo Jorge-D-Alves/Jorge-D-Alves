@@ -6,6 +6,7 @@
    :house: Atualmente moro na cidade de São Bernardo do Campo - SP.
    
    :student: Estudante de programação Web Full Stack - Trybe.
+   :student: Estudante de programação Web Full Stack - IGTI.
 
    :student: Bacharelado em Ciencia da Computação - Nove de Julho.
 
