@@ -8,12 +8,13 @@
    - :student: Estudante de programação Web Full Stack - IGTI
    - :student: Estudante de programação Web Full Stack - Trybe
    - :student: Bacharelado em Ciencia da Computação - Nove de Julho
-
-<div align="center">
+   - :man_teacher: Professor de Informatica para Internet - Projeto Novotec Integrado SP
+ <div align="center">
   <a href="https://github.com/Jorge-D-Alves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorge-D-Alves&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-D-Alves&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
+
 
    <div style="display: inline_block"><br>
   <img align="center" alt="Jorge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,12 +29,12 @@
   <img align="center" alt="Jorge-Mysql" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Jorge-Node" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Jorge-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_128x128.png" />
-<!--   <img align="right" alt="Jorve Avatar" height="150" style="border-radius:50px;"
+   <img align="right" alt="Jorve Avatar" height="150" style="border-radius:50px;"
 src="https://readyplayer.me/gallery/YVNBQEIUY">
 </div>
 
    ##
-<!--
+   
    <div> 
   <a href = "mailto:alvesdjorge@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a target="_blank" href="https://www.linkedin.com/in/jorgealves2021">
@@ -50,7 +51,6 @@ src="https://readyplayer.me/gallery/YVNBQEIUY">
   ![Snake animation](https://github.com/Jorge-D-Alves/Jorge-D-Alves/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-!>
    
    > > > > ...**" The river reaches its objectives, because it has learned to circumvent obstacles "**  _Lao Tsé....
    
