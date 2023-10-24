@@ -33,7 +33,7 @@ src="https://readyplayer.me/gallery/YVNBQEIUY">
 </div>
 
    ##
-
+<!--
    <div> 
   <a href = "mailto:alvesdjorge@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a target="_blank" href="https://www.linkedin.com/in/jorgealves2021">
@@ -50,6 +50,7 @@ src="https://readyplayer.me/gallery/YVNBQEIUY">
   ![Snake animation](https://github.com/Jorge-D-Alves/Jorge-D-Alves/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+!>
    
    > > > > ...**" The river reaches its objectives, because it has learned to circumvent obstacles "**  _Lao Tsé....
    
